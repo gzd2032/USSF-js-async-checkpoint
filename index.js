@@ -1,11 +1,11 @@
 /*
-[ ] import fetch & node js fs
-[ ] utilize pokeapi.com
-[ ] read txt file
-[ ] process each line for serperate input (Array?)
-[ ] process the api request from the array of pokemon
-[ ] error handle non-exisitant pokemon
-[ ] log each pokemon's type
+[X] import fetch & node js fs
+[X] utilize pokeapi.com
+[X] read txt file
+[X] process each line for serperate input (Array?)
+[X] process the api request from the array of pokemon
+[X] error handle non-exisitant pokemon
+[X] log each pokemon's type
 */
 
 const fetch = require('node-fetch')
